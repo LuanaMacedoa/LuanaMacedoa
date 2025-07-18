@@ -1,16 +1,41 @@
-## Hi there 👋
+
 
 <!--
 **LuanaMacedoa/LuanaMacedoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<h1 align="center">Olá 👋, eu sou a Luana</h1>
+<h3 align="center">Estudante de Sistemas para Internet </h3>
+
+---
+ 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/luanamacedoa/)
+ 
+---
+
+💻 **Tecnologias & Ferramentas**  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+</p>
+
+---
+
+📊 **Estatísticas do GitHub**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanaMacedoa&show_icons=true&theme=radical&hide=contribs" alt="LuanaMacedoa stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaMacedoa&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanaMacedoa&theme=radical" alt="GitHub Rank" height="160" />
+</p>
+
+
+---
+
+
+
