@@ -1,8 +1,7 @@
 
 <h1 align="center">Olá 👋, eu sou a Luana</h1>
  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/luanamacedoa/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/luanamacedoa/)
 
 💻 **Tecnologias & Ferramentas**  
 
