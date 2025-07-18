@@ -1,16 +1,8 @@
 
-
-<!--
-**LuanaMacedoa/LuanaMacedoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h1 align="center">Olá 👋, eu sou a Luana</h1>
-<h3 align="center">Estudante de Sistemas para Internet </h3>
-
----
  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/luanamacedoa/)
- 
----
+
 
 💻 **Tecnologias & Ferramentas**  
 
@@ -34,8 +26,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanaMacedoa&theme=radical" alt="GitHub Rank" height="160" />
 </p>
 
-
----
 
 
 
