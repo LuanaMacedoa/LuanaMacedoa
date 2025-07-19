@@ -3,6 +3,8 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/luanamacedoa/)
 
+<p>📚 Sistemas para Internet IFPB  | Em busca de evolução e novos desafios</p>
+
 💻 **Tecnologias & Ferramentas**  
 
 <p align="left">
